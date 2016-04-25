@@ -1,6 +1,6 @@
 CACHE MANIFEST
 # sw.bundle: ng-cli
-# sw.version: fae294cfcc4c5df4690add78c5982b536ad4ecb6
+# sw.version: 45d5d32733ce29f0cf5e5b5307b08b159b56f192
 # sw.file.hash: 9e27270431dd0e36213a0a0d1aafbd1faa409265
 /app.js
 # sw.file.hash: a694ddf1b9e159301ce22afb9ec5f28504524dcb
